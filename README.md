@@ -69,15 +69,10 @@ Key visualizations include:
 - Heatmaps showing correlations  
 - Environmental emission comparisons across modes  
 
----
-
-### 4. **Modeling (if applicable)**
-
-(Optional): Predictive models such as regression or clustering can be implemented to forecast demand or identify risk clusters.
 
 ---
 
-### 5. **Evaluation & Insights**
+### 4. **Evaluation & Insights**
 
 - Detailed conclusions drawn per business question  
 - Limitations acknowledged (e.g., missing values, reporting inconsistencies)  
@@ -85,12 +80,17 @@ Key visualizations include:
 
 ---
 
-### 6. **Deployment / Reporting**
+### 5. **Deployment / Reporting**
 
-- All findings summarized in the final presentation file (`presentation.pptx`)  
+- All findings are summarized in the final presentation file (`presentation.pptx`)  
 - This repository serves as the full documentation and analysis archive  
 
 ---
 
 ## 📁 Project Structure
-
+├── data/ # Contains raw and processed data files (or use a download link)
+├── notebooks/ # Jupyter notebooks used for data exploration and analysis
+├── scripts/ # Python scripts (if applicable)
+├── visualizations/ # Charts, graphs, or dashboards
+├── presentation/ # Final presentation file (PDF or PowerPoint)
+├── README.md # Project documentation
