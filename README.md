@@ -88,9 +88,9 @@ Key visualizations include:
 ---
 
 ## 📁 Project Structure
-├── data/ # Contains raw and processed data files (or use a download link)
-├── notebooks/ # Jupyter notebooks used for data exploration and analysis
-├── scripts/ # Python scripts (if applicable)
-├── visualizations/ # Charts, graphs, or dashboards
-├── presentation/ # Final presentation file (PDF or PowerPoint)
-├── README.md # Project documentation
+- data/ # Contains raw and processed data files (or use a download link)
+- notebooks/ # Jupyter notebooks used for data exploration and analysis
+- scripts/ # Python scripts (if applicable)
+- visualizations/ # Charts, graphs, or dashboards
+- presentation/ # Final presentation file (PDF or PowerPoint)
+- README.md # Project documentation
