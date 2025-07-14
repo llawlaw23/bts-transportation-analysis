@@ -19,19 +19,6 @@ By leveraging BTS data, this project identifies patterns, trends, and actionable
 | **Git / GitHub** | Version control and project tracking |
 | **PowerPoint / Google Slides** | Final presentation and business insights summary |
 
----
-
-## 📊 Dataset
-
-The dataset was provided by the **Bureau of Transportation Statistics** and is available in the file `data.zip`. It includes various transportation metrics across the U.S., such as:
-
-- Passenger travel volumes  
-- Freight movement statistics  
-- Safety incident reports  
-- Infrastructure capacities  
-- Environmental impact metrics  
-
-**📁 Dataset structure and documentation** is included in the `data/` folder.
 
 ---
 
@@ -50,40 +37,33 @@ We aim to answer the following analytical questions:
 
 ---
 
-### 2. **Data Understanding & Preparation**
-
-- Data loaded from multiple monthly reports  
-- Merged and cleaned datasets for consistency  
-- Missing values handled appropriately  
-- Data types standardized  
-- New features such as `year`, `month`, and `mode_category` created  
+## 2. Data Understanding & Preprocessing
+- Data sources
+- Cleaning and preparation steps
 
 ---
 
-### 3. **Exploratory Data Analysis & Visualizations**
-
-Key visualizations include:
-
-- Trends of travel volume over time  
-- Incident counts by transportation mode  
-- Heatmaps showing correlations  
-- Environmental emission comparisons across modes  
-
+## 3. Analysis and Visualization
+- Description of methods
+- Visualizations with explanations
 
 ---
 
-### 4. **Evaluation & Insights**
-
-- Detailed conclusions drawn per business question  
-- Limitations acknowledged (e.g., missing values, reporting inconsistencies)  
-- Key performance indicators identified  
+## 4. Conclusions & Recommendations
+- Key findings
+- Suggested actions
 
 ---
 
-### 5. **Deployment / Reporting**
+## 5. How to run the code
+- Dependencies
+- Instructions
 
-- All findings are summarized in the final presentation file (`presentation.pptx`)  
-- This repository serves as the full documentation and analysis archive  
+---
+
+## 6. Links
+- Visualization dashboard
+- Presentation slides
 
 ---
 
