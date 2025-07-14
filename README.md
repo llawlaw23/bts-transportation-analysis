@@ -41,7 +41,7 @@ The dataset was provided by the **Bureau of Transportation Statistics** and is a
 We aim to answer the following analytical questions:
 
 1. What transportation mode contributes most to safety incidents?
-2. How has passenger travel changed over the last decade?
+2. How has passenger travel changed over the years?
 3. Which states show the highest congestion rates?
 4. What are the environmental impacts by mode of transport?
 5. Is there a correlation between infrastructure quality and incident frequency?
