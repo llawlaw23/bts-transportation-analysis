@@ -19,19 +19,6 @@ By leveraging BTS data, this project identifies patterns, trends, and actionable
 | **Git / GitHub** | Version control and project tracking |
 | **PowerPoint / Google Slides** | Final presentation and business insights summary |
 
----
-
-## 📊 Dataset
-
-The dataset was provided by the **Bureau of Transportation Statistics** and is available in the file `data.zip`. It includes various transportation metrics across the U.S., such as:
-
-- Passenger travel volumes  
-- Freight movement statistics  
-- Safety incident reports  
-- Infrastructure capacities  
-- Environmental impact metrics  
-
-**📁 Dataset structure and documentation** is included in the `data/` folder.
 
 ---
 
@@ -40,50 +27,43 @@ The dataset was provided by the **Bureau of Transportation Statistics** and is a
 ### 1. **Business Understanding**
 We aim to answer the following analytical questions:
 
-1. What transportation mode contributes most to safety incidents?
-2. How has passenger travel changed over the years?
-3. Which states show the highest congestion rates?
-4. What are the environmental impacts by mode of transport?
-5. Is there a correlation between infrastructure quality and incident frequency?
-6. How do seasonal changes affect freight movement?
-7. What are the trends in air travel delays?
+1. Which modes of transportation (DISAGMOT) account for the highest total shipping weight (SHIPWT) and value (VALUE)?
+2. How does trade volume (by VALUE and SHIPWT) vary seasonally across different months (MONTH)?
+3. Which U.S. states (USASTATE) and countries (COUNTRY) contribute most to the volume and value of trade?
+4. What is the distribution of trade types (TRDTYPE) across domestic and foreign shipments (DF)?
+5. How does the container type (CONTCODE) usage vary by commodity classification (COMMODITY2)?
+6. Are there any trends or changes in trade volume and value by year (YEAR) across different transportation modes?
+7. Is there a correlation between shipping weight (SHIPWT) and trade value (VALUE) for different commodities and transportation modes?
 
 ---
 
-### 2. **Data Understanding & Preparation**
-
-- Data loaded from multiple monthly reports  
-- Merged and cleaned datasets for consistency  
-- Missing values handled appropriately  
-- Data types standardized  
-- New features such as `year`, `month`, and `mode_category` created  
+## 2. Data Understanding & Preprocessing
+- Data sources
+- Cleaning and preparation steps
 
 ---
 
-### 3. **Exploratory Data Analysis & Visualizations**
-
-Key visualizations include:
-
-- Trends of travel volume over time  
-- Incident counts by transportation mode  
-- Heatmaps showing correlations  
-- Environmental emission comparisons across modes  
-
+## 3. Analysis and Visualization
+- Description of methods
+- Visualizations with explanations
 
 ---
 
-### 4. **Evaluation & Insights**
-
-- Detailed conclusions drawn per business question  
-- Limitations acknowledged (e.g., missing values, reporting inconsistencies)  
-- Key performance indicators identified  
+## 4. Conclusions & Recommendations
+- Key findings
+- Suggested actions
 
 ---
 
-### 5. **Deployment / Reporting**
+## 5. How to run the code
+- Dependencies
+- Instructions
 
-- All findings are summarized in the final presentation file (`presentation.pptx`)  
-- This repository serves as the full documentation and analysis archive  
+---
+
+## 6. Links
+- Visualization dashboard
+- Presentation slides
 
 ---
 
