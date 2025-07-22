@@ -29,17 +29,17 @@ We aim to answer the following analytical questions:
 
 1. Which modes of transportation (DISAGMOT) accounted for the highest total shipping weight (SHIPWT) and value (VALUE) from 2020 to 2024?
 
-2. How did trade volume (by VALUE and SHIPWT) vary seasonally across different months (MONTH) and years (YEAR) from 2020 to 2024?
+2. How did trade volume (by VALUE and SHIPWT) vary seasonally across different months (MONTH) and years (YEAR) between 2021 and 2022?
 
 3. Which U.S. states (USASTATE) and countries (COUNTRY) contributed most to the volume and value of trade from 2020 to 2024?
 
-4. What was the distribution of trade types (TRDTYPE) across domestic and foreign shipments (DF) from 2020 to 2024?
+4. Which countries (COUNTRY) contributed most to the volume and value of trade from 2020 to 2024?
 
-5. How did container type (CONTCODE) usage vary by mode of transportation (DISAGMOT) from 2020 to 2024?
+5. What was the distribution of trade types (TRDTYPE) across domestic and foreign shipments (DF) from 2020 to 2024?
 
-6. Were there any trends or changes in trade volume and value by year (YEAR) across different transportation modes (DISAGMOT) from 2020 to 2024?
+6. How did container type (CONTCODE) usage vary by the top 2 mode of transportation (DISAGMOT) from 2020 to 2024?
 
-7. Was there a correlation between shipping weight (SHIPWT), trade value (VALUE), and freight charges (FREIGHT_CHARGES) for different transportation modes (DISAGMOT) from 2020 to 2024?
+7. Were there any trends or changes in trade volume and value by year (YEAR) across different transportation modes (DISAGMOT) from 2020 to 2024?
 
 ---
 
