@@ -31,7 +31,7 @@ We aim to answer the following analytical questions:
 
 2. How did trade volume (by VALUE and SHIPWT) vary seasonally across different months (MONTH) and years (YEAR) between 2021 and 2022?
 
-3. Which U.S. states (USASTATE) and countries (COUNTRY) contributed most to the volume and value of trade from 2020 to 2024?
+3. Which U.S. states (USASTATE) contributed most to the volume and value of trade from 2020 to 2024?
 
 4. Which countries (COUNTRY) contributed most to the volume and value of trade from 2020 to 2024?
 
