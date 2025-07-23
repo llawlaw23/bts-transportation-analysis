@@ -25,21 +25,21 @@ By leveraging BTS data, this project identifies patterns, trends, and actionable
 ## 📈 CRISP-DM Framework Implementation
 
 ### 1. **Business Understanding**
-We aim to answer the following analytical questions:
+I aim to answer the following analytical questions:
 
-1. Which modes of transportation (DISAGMOT) accounted for the highest total shipping weight (SHIPWT) and value (VALUE) from 2020 to 2024?
+1. Which modes of transportation accounted for the highest total shipping weight and value from 2020 to 2022?
 
-2. How did trade volume (by VALUE and SHIPWT) vary seasonally across different months (MONTH) and years (YEAR) between 2021 and 2022?
+2. How did Shipping weight vary seasonally across different months and years between 2021 and 2022?
 
-3. Which U.S. states (USASTATE) contributed most to the volume and value of trade from 2020 to 2024?
+3. Which U.S. states contributed most to the volume and value of trade from 2020 to 2024?
 
-4. Which countries (COUNTRY) contributed most to the volume and value of trade from 2020 to 2024?
+4. Which countries contributed most to the volume and value of trade from 2020 to 2024?
 
-5. What was the distribution of trade types (TRDTYPE) across domestic and foreign shipments (DF) from 2020 to 2024?
+5. What was the distribution of trade types across domestic and foreign shipments in 2021 to 2022?
 
-6. How did container type (CONTCODE) usage vary by the top 2 mode of transportation (DISAGMOT) from 2020 to 2024?
+6. How did container type  usage vary by the top 2 modes of transportation  from 2020 to 2024?
 
-7. Were there any trends or changes in trade volume and value by year (YEAR) across different transportation modes (DISAGMOT) from 2020 to 2024?
+7. Were there any trends or changes in trade volume and value by year across different transportation modes from 2020 to 2024?
 
 ---
 
